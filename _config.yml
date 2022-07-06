@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeonghyun's blog"
+title                    : "Jeonghyun's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jeonghyun Kim"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Jeonghyun Kim"
   avatar           : "/assets/images/bio.jpg"
-  bio              : "**M.Sc**, 3D Deep Learning Researcher"
+  bio              : "*M.Sc*, 3D Deep Learning Researcher"
   location         : "KAIST, Daejeon"
   email            :
   links:
@@ -281,9 +281,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
