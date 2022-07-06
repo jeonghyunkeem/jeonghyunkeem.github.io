@@ -278,10 +278,10 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: archive
+      layout: single
       author_profile: true
       read_time: true
-      comments: false
+      comments: true
       share: false
       related: false
   # _pages
