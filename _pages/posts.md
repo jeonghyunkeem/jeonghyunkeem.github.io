@@ -1,4 +1,5 @@
 ---
+title: Posts
 permalink: /posts/
 layout: collection
 author_profile: true
