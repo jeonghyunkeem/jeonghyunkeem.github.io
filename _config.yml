@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeonghyun Kim"
+  name             : "Jeonghyun Kim, M.Sc"
   avatar           : "/assets/images/bio.jpg"
-  bio              : "*M.Sc*, 3D Deep Learning Researcher"
+  bio              : "3D Deep Learning Researcher"
   location         : "KAIST, Daejeon"
   email            :
   links:
