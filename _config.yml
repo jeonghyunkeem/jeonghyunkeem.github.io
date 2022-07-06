@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Jeonghyun Kim"
   avatar           : "/assets/images/bio.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "M.Sc, 3D Deep Learning Researcher"
+  location         : "KAIST, Daejeon"
   email            :
   links:
     - label: "Email"
